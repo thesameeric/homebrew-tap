@@ -1,6 +1,6 @@
 cask "feather" do
-    version "1.0.0"
-    sha256 "your_app_sha256_checksum"
+    version "1.0.8"
+    sha256 ""
   
     url "https://github.com/thesameeric/feather/releases/download/v#{version}/feather.app.zip"
     name "Feather"
